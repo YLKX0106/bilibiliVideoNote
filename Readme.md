@@ -18,9 +18,9 @@
 
 1. 安装并启用[Quickadd](https://github.com/chhoumann/quickadd)插件，[Media Extend插件](https://github.com/aidenlx/media-extended)和[B站视频拓展插件](https://github.com/aidenlx/mx-bili-plugin)
 
-2. 下载需要的脚本文件[bilibili.js](https://github.com/LumosLovegood/myScripts/blob/main/BilibiliVideo/bilibili.js)以及[示例模板](https://github.com/LumosLovegood/myScripts/blob/main/BilibiliVideo/VideoNote.md)(之后可以自定义模板)放到自己的obsidian库中
+2. 下载需要的脚本文件[bilibili.js](https://github.com/YLKX0106/bilibiliVideoNote/blob/init/bilibili.js)以及[示例模板](https://github.com/YLKX0106/bilibiliVideoNote/blob/init/VideoNote.md)(之后可以自定义模板)放到自己的obsidian库中
 
-3. 在Quickadd中新建一个Macro命令，命令设置中添加`User Script`为[bilibili.js](https://github.com/LumosLovegood/myScripts/blob/main/BilibiliVideo/bilibili.js)，再添加一个以[示例模板](https://github.com/LumosLovegood/myScripts/blob/main/BilibiliVideo/VideoNote.md)为模板的Template命令，选择模板文件路径，开启`File Name Format`，在`File Name`中输入`{{value:filename}}`，完成之后点亮该命令的⚡符号以启用命令。
+3. 在Quickadd中新建一个Macro命令，命令设置中添加`User Script`为[bilibili.js](https://github.com/YLKX0106/bilibiliVideoNote/blob/init/bilibili.js)，再添加一个以[示例模板](https://github.com/YLKX0106/bilibiliVideoNote/blob/init/VideoNote.md)为模板的Template命令，选择模板文件路径，开启`File Name Format`，在`File Name`中输入`{{value:filename}}`，完成之后点亮该命令的⚡符号以启用命令。
 
 4. 命令面板启动该命令即可使用。
 
